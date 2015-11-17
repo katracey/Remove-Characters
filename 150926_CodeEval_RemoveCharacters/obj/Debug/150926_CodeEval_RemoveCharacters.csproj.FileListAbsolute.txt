@@ -1,0 +1,18 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\bin\Debug\150926_CodeEval_RemoveCharacters.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\bin\Debug\150926_CodeEval_RemoveCharacters.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\bin\Debug\150926_CodeEval_RemoveCharacters.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\obj\Debug\150926_CodeEval_RemoveCharacters.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\obj\Debug\150926_CodeEval_RemoveCharacters.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\obj\Debug\150926_CodeEval_RemoveCharacters.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\bin\Debug\150926_CodeEval_RemoveCharacters.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\obj\Debug\150926_CodeEval_RemoveCharacters.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\obj\Debug\150926_CodeEval_RemoveCharacters.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\bin\Debug\150926_CodeEval_RemoveCharacters.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\bin\Debug\150926_CodeEval_RemoveCharacters.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\In Progress\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\obj\Debug\150926_CodeEval_RemoveCharacters.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\bin\Debug\150926_CodeEval_RemoveCharacters.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\obj\Debug\150926_CodeEval_RemoveCharacters.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\obj\Debug\150926_CodeEval_RemoveCharacters.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\bin\Debug\150926_CodeEval_RemoveCharacters.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\obj\Debug\150926_CodeEval_RemoveCharacters.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\150926_CodeEval_RemoveCharacters\150926_CodeEval_RemoveCharacters\obj\Debug\150926_CodeEval_RemoveCharacters.pdb
